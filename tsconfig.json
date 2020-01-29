@@ -1,0 +1,13 @@
+{
+	"compilerOptions": {
+		"baseUrl": ".",
+		"rootDir": "./src/",
+		"outDir": "./dist/",
+		"noImplicitAny": true,
+		"module": "commonjs",
+		"target": "es2017",
+		"allowJs": true,
+		"declaration": false,
+		"sourceMap": true
+	}
+}
